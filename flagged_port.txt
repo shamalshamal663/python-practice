@@ -1,0 +1,3 @@
+CRITICAL RISK : port 22 exposed!
+CRITICAL RISK : port 21 exposed!
+CRITICAL RISK : port 3389 exposed!

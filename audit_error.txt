@@ -1,0 +1,2 @@
+FAILED ATTEMPT: Could not locate missing_vault.log
+FAILED ATTEMPT: Could not locate missing_vault.log
