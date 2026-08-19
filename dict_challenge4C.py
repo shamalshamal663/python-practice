@@ -16,5 +16,5 @@ for threat , count in threat_count.items():
     if count >= 3:
         print(f"CRITICAL FLOOD : {threat} (total:{count})")
     else:
-         print(f"Threat logged : {threat} (total:{count})")    
+        print(f"Threat logged : {threat} (total:{count})")    
              
