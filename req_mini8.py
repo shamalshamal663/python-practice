@@ -20,3 +20,4 @@ for endpoint in endpoints:
 
  except requests.exceptions.RequestException as e:
     print(f"[ERROR] :return {e}")                
+
