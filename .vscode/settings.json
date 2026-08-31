@@ -4,5 +4,6 @@
     "${workspaceFolder}/.venv/lib/python3.11/site-packages",
     "${workspaceFolder}/.venv/lib/python3.12/site-packages",
     "${workspaceFolder}/.venv/lib/python3.13/site-packages"
-  ]
+  ],
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
